@@ -15,3 +15,12 @@ xcode图片提示插件
 
 ###[ZLGotoSandboxPlugin](https://github.com/MakeZL/ZLGotoSandboxPlugin)
 快速进入沙盒插件
+
+##[ESJsonFormat-Xcode](https://github.com/EnjoySR/ESJsonFormat-Xcode)
+将JSON格式化输出为模型的属性 
+
+###[jazzy](https://github.com/realm/jazzy)
+通过代码注释生成doc文档,支持ObjC/Swift,分析准确
+
+###[JSONExport](https://github.com/Ahmed-Ali/JSONExport)
+贴上JSON字符串，生成ObjC/Swift/Java对象
