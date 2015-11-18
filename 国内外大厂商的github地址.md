@@ -15,3 +15,9 @@
 ####[Alibaba:](https://github.com/alibaba)
 
 ####[Douban](https://github.com/douban)
+
+####[Tencent](https://github.com/TencentOpen)
+
+####[Youtube](https://github.com/youtube)
+
+####[Juniper](https://github.com/juniper)
