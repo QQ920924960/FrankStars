@@ -1,23 +1,29 @@
-####[Twitter:](https://github.com/twitter)
+####[Twitter推特](https://github.com/twitter)
 
-####[Facebook:](https://github.com/facebook)
+####[Facebook非死不可](https://github.com/facebook)
 
-####[Google:](https://github.com/google)
+####[Google谷歌](https://github.com/google)
 
-####[Microsoft:](https://github.com/microsoft)
+####[Microsoft微软](https://github.com/microsoft)
 
-####[Cisco:](https://github.com/cisco)
+####[Cisco思科](https://github.com/cisco)
 
-####[Baidu:](https://github.com/baidu)
+####[Baidu百度](https://github.com/baidu)
 
-####[Xiaomi:](https://github.com/xiaomi)
+####[Xiaomi小米](https://github.com/xiaomi)
 
-####[Alibaba:](https://github.com/alibaba)
+####[Alibaba阿里巴巴](https://github.com/alibaba)
 
-####[Douban](https://github.com/douban)
+####[Douban豆瓣](https://github.com/douban)
 
-####[Tencent](https://github.com/TencentOpen)
+####[Tencent腾讯](https://github.com/TencentOpen)
 
 ####[Youtube](https://github.com/youtube)
 
-####[Juniper](https://github.com/juniper)
+####[Juniper瞻博网络](https://github.com/juniper)
+
+####[Netease网易](https://github.com/netease)
+
+####[Dianping大众点评](https://github.com/dianping)
+
+####[Apache阿帕奇](https://github.com/apache)
