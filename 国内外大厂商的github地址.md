@@ -31,3 +31,5 @@
 ####[Apache阿帕奇](https://github.com/apache)
 
 ####[id-Software历来各个商业游戏的完整代码](https://github.com/id-Software)
+
+####[atom一款开源编辑器的组织](https://github.com/atom)
