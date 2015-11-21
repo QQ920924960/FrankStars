@@ -4,7 +4,7 @@
 
 ##[C and C++](https://github.com/QQ920924960/FrankStars/blob/master/C%20and%20C%2B%2B.md)
 
-##[C Sharp]
+##[C Sharp](https://github.com/QQ920924960/FrankStars/blob/master/C%20Sharp.md)
 
 ##[CSS](https://github.com/QQ920924960/FrankStars/blob/master/CSS.md)
 
