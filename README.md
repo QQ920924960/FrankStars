@@ -22,7 +22,7 @@
 
 ##[OC for Mac](https://github.com/QQ920924960/FrankStars/blob/master/OC%20for%20Mac.md)
 
-##[Objective-C](https://github.com/QQ920924960/FrankStars/blob/master/.Net.md)
+##[Objective-C](https://github.com/QQ920924960/FrankStars/blob/master/Objective-C.md)
 
 ##[PHP](https://github.com/QQ920924960/FrankStars/blob/master/PHP.md)
 
