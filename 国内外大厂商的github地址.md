@@ -34,4 +34,4 @@
 
 ####[atom一款开源编辑器的组织](https://github.com/atom)
 
-####[七牛云存储](https://github.com/qiniu)
+####[qiniu七牛云存储](https://github.com/qiniu)
