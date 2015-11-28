@@ -1,35 +1,39 @@
-[FlycoPageIndicator](https://github.com/H07000223/FlycoPageIndicator) Ìá¹©ÁË¶àÖÖ²»Í¬µÄ·ç¸ñµÄ Android PageIndicator, ·½±ã¿ª·¢ÕßÃÇÔÚ¹¹½¨ÂÖ²¥µÈ¹ö¶¯ÊÓÍ¼Ê±´îÅäÊ¹ÓÃ
+[GsonFormat](https://github.com/zzz40500/GsonFormat)å°†JSONObjectæ ¼å¼çš„String è§£ææˆå®ä½“
+
+![](https://camo.githubusercontent.com/fbf4b89e2ec64e80d351f725d11762ebd2b7a515/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d303766333038346262363735386566612e676966)
+
+[FlycoPageIndicator](https://github.com/H07000223/FlycoPageIndicator) æä¾›äº†å¤šç§ä¸åŒçš„é£æ ¼çš„ Android PageIndicator, æ–¹ä¾¿å¼€å‘è€…ä»¬åœ¨æ„å»ºè½®æ’­ç­‰æ»šåŠ¨è§†å›¾æ—¶æ­é…ä½¿ç”¨
 
 ![](https://github.com/H07000223/FlycoPageIndicator/blob/master/preview_FlycoPageIndicator.gif)
 
 [githot](https://github.com/andyiac/githot)
 
-GitHot ÊÇÒ»¿î GitHub µÚÈı·½ Android ¿Í»§¶Ë, °ïÖú¿ª·¢ÕßÃÇÔÚÊÖ»ú¶ËÉÏ²é¿´ GitHub ÉÏÅÅÃû½ÏÎª¿¿Ç°µÄ¿ª·¢ÕßºÍ¿ªÔ´ÏîÄ¿, ÓëÖ®ÀàËÆµÄ»¹ÓĞÒ»¿îÃûÎª Monkey µÄ iOS Ó¦ÓÃ, Ä¿Ç°´Ë¿ªÔ´ÏîÄ¿ÊµÏÖµÄ¹¦ÄÜÈÔÈ»½ÏÉÙ, ÆÚ´ıºóĞøµÄÓÅ»¯ºÍÍêÉÆ
+GitHot æ˜¯ä¸€æ¬¾ GitHub ç¬¬ä¸‰æ–¹ Android å®¢æˆ·ç«¯, å¸®åŠ©å¼€å‘è€…ä»¬åœ¨æ‰‹æœºç«¯ä¸ŠæŸ¥çœ‹ GitHub ä¸Šæ’åè¾ƒä¸ºé å‰çš„å¼€å‘è€…å’Œå¼€æºé¡¹ç›®, ä¸ä¹‹ç±»ä¼¼çš„è¿˜æœ‰ä¸€æ¬¾åä¸º Monkey çš„ iOS åº”ç”¨, ç›®å‰æ­¤å¼€æºé¡¹ç›®å®ç°çš„åŠŸèƒ½ä»ç„¶è¾ƒå°‘, æœŸå¾…åç»­çš„ä¼˜åŒ–å’Œå®Œå–„
 
 [JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer)
 
-Ò»¸ö¹¦ÄÜÇ¿´óµÄ Android ¿ªÔ´²¥·ÅÆ÷, ×÷Õß½«Ô­±¾ÊÕ·ÑµÄÏîÄ¿ÄÃ³öÀ´¿ªÔ´, ÊµÔÚÁîÈË¾´Åå
+ä¸€ä¸ªåŠŸèƒ½å¼ºå¤§çš„ Android å¼€æºæ’­æ”¾å™¨, ä½œè€…å°†åŸæœ¬æ”¶è´¹çš„é¡¹ç›®æ‹¿å‡ºæ¥å¼€æº, å®åœ¨ä»¤äººæ•¬ä½©
 
 [android-animate-RichEditor](https://github.com/xmuSistone/android-animate-RichEditor)
 
-Ò»¿îÖ§³ÖÍ¼Æ¬²åÈë¶¯»­Ğ§¹ûµÄ Android ¸»ÎÄ±¾±à¼­Æ÷
+ä¸€æ¬¾æ”¯æŒå›¾ç‰‡æ’å…¥åŠ¨ç”»æ•ˆæœçš„ Android å¯Œæ–‡æœ¬ç¼–è¾‘å™¨
 
 [ViewInspector](https://github.com/xfumihiro/ViewInspector)
 
-Ò»¿î¿ÉÈÃ Android ¿ª·¢ÕßÖ±½ÓÔÚÓ¦ÓÃÄÚ¹¤¾ßÀ¸µ÷ÊÔÊÓÍ¼µÄ²å¼ş
+ä¸€æ¬¾å¯è®© Android å¼€å‘è€…ç›´æ¥åœ¨åº”ç”¨å†…å·¥å…·æ è°ƒè¯•è§†å›¾çš„æ’ä»¶
 ![](https://github.com/xfumihiro/ViewInspector/raw/master/images/sample.gif)
 
 [GestureViews](https://github.com/alexvasilkov/GestureViews/tree/master/sample)
 
-GestureViews ÊÇÒ»¿îÀûÓÃÊÖÊÆ¶ÔÍ¼Æ¬½øĞĞ·Å´óËõĞ¡, ÒÔ¼°Î»ÖÃÒÆ¶¯µÄ Android ¿â
+GestureViews æ˜¯ä¸€æ¬¾åˆ©ç”¨æ‰‹åŠ¿å¯¹å›¾ç‰‡è¿›è¡Œæ”¾å¤§ç¼©å°, ä»¥åŠä½ç½®ç§»åŠ¨çš„ Android åº“
 
 [SDECollectionViewAlbumTransition](https://github.com/seedante/SDECollectionViewAlbumTransition)
 
-SDECollectionViewAlbumTransition ÓÃ×Ô¶¨ÒåµÄ push ºÍ pop ÊµÏÖÁËÓĞÈ¤µÄ iOS Ïà²á·­¿ª¶¯»­Ğ§¹û
+SDECollectionViewAlbumTransition ç”¨è‡ªå®šä¹‰çš„ push å’Œ pop å®ç°äº†æœ‰è¶£çš„ iOS ç›¸å†Œç¿»å¼€åŠ¨ç”»æ•ˆæœ
 
 [MaskProgressView](https://github.com/iammert/MaskProgressView)
 
-MaskProgressView ÓÖÒ»¿îÎªÒôÀÖ²¥·ÅÆ÷¶øÉúµÄ Android ²¥·Å½ø¶ÈÊÓÍ¼
+MaskProgressView åˆä¸€æ¬¾ä¸ºéŸ³ä¹æ’­æ”¾å™¨è€Œç”Ÿçš„ Android æ’­æ”¾è¿›åº¦è§†å›¾
 
 
 
