@@ -183,3 +183,8 @@ YYCategories — 功能丰富的 Category 类型工具库。
 [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
 
 特别火的日志库
+
+
+[FXBlurView](https://github.com/nicklockwood/FXBlurView)
+
+支持静态、动态模糊效果，继承与UIView的模糊特效
