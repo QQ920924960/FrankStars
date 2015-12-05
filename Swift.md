@@ -1,9 +1,14 @@
 [ExplosionField](https://github.com/tyrantgit/ExplosionField)
 
-ÊÓÍ¼¶¯»­±¬Õ¨Ğ§¹ûµÄ Demo
+è§†å›¾åŠ¨ç”»çˆ†ç‚¸æ•ˆæœçš„ Demo
 
 ![](https://github.com/tyrantgit/ExplosionField/blob/master/explosionfield.gif)
 
 [LGWeChatKit](https://github.com/jamy0801/LGWeChatKit)
 
-Swift 2.0 ·ÂÎ¢.ĞÅ½çÃæ£¬¿É»¬¶¯cell£¬×Ô¶¨ÒåÍ¼Æ¬Ñ¡ÔñÆ÷¡£Ö§³ÖÊÓÆµ£¬ÓïÒô£¬ÏµÍ³Í¼Æ¬µÈ¹¦ÄÜ¡£OÍøÒ³Á´½Ó Feature°üÀ¨£ºÈ«²¿²ÉÓÃAutolayout£¬ÏûÏ¢ÁĞ±íºÍÁÄÌì½çÃæ£¬·ÃÎÊÏµÍ³Ïà²á£¬µØÍ¼µ÷ÓÃ£¬·ÃÎÊÍ¨Ñ¶Â¼£¬É¨Ò»É¨µÈ¡£
+Swift 2.0 ä»¿å¾®.ä¿¡ç•Œé¢ï¼Œå¯æ»‘åŠ¨cellï¼Œè‡ªå®šä¹‰å›¾ç‰‡é€‰æ‹©å™¨ã€‚æ”¯æŒè§†é¢‘ï¼Œè¯­éŸ³ï¼Œç³»ç»Ÿå›¾ç‰‡ç­‰åŠŸèƒ½ã€‚Oç½‘é¡µé“¾æ¥ FeatureåŒ…æ‹¬ï¼šå…¨éƒ¨é‡‡ç”¨Autolayoutï¼Œæ¶ˆæ¯åˆ—è¡¨å’ŒèŠå¤©ç•Œé¢ï¼Œè®¿é—®ç³»ç»Ÿç›¸å†Œï¼Œåœ°å›¾è°ƒç”¨ï¼Œè®¿é—®é€šè®¯å½•ï¼Œæ‰«ä¸€æ‰«ç­‰ã€‚
+
+[GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
+
+ä¸€ä¸ªä¸é”™çš„å¯¼èˆªæ åŠ¨ç”»æ•ˆæœ
+![](https://camo.githubusercontent.com/10639e803a90fadd751d3683c497c449e2a48339/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323031383234392f64726166745f30362e676966)
