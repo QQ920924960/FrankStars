@@ -42,5 +42,12 @@ Xcode插件一样，在Xcode之下管理代码片段也绝非易事。Arnaud Coo
 ![](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin/raw/master/Screenshots/screenshot02.png)
 其卓越之处在于，大家手动添加到Xcode当中的所有代码片段都将原封不动继续存在。我们只需点几下鼠标即可从git库当中导入代码片段。大家也完全可以利用这套方案对代码片段进行备份，或者在同时使用多台设备的情况下将其保存在中央位置。
 
+###[Dash for Xcode]()
+Dash是一款用于浏览文档的优秀软件。更让人喜出望外的是，它现在已经与Xcode相集成，这要归功于其Xcode插件。大家可能知道，我们可以在Xcode编辑器中按住Option键同时点击以直接前往对应文档。不过大家对于Xcode自带来的文档浏览器评价不高，在这种情况下Dash插件就成了最理想的解决方案。
+![](http://s2.51cto.com/wyfs02/M00/46/83/wKiom1PyvYOBTuZFAACLZqMVukQ768.jpg)
+官方网站：http://kapeli.com/dash
+该插件能够在我们按住Option并点击对应文档后利用Dash而非Xcode自带文档浏览器将其打开。Dash不仅运行速度极快，同时还能与CocoaDocs相集成。举例来说，如果大家用这种方式点击AFNetworking库中的一个方法，那么Dash将显示出该方法的说明文档。
+
+
 
 
