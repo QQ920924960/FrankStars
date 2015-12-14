@@ -48,6 +48,7 @@ Dash是一款用于浏览文档的优秀软件。更让人喜出望外的是，�
 官方网站：http://kapeli.com/dash
 该插件能够在我们按住Option并点击对应文档后利用Dash而非Xcode自带文档浏览器将其打开。Dash不仅运行速度极快，同时还能与CocoaDocs相集成。举例来说，如果大家用这种方式点击AFNetworking库中的一个方法，那么Dash将显示出该方法的说明文档。
 
-
+### [Auto-Importer-for-Xcode](https://github.com/citrusbyte/Auto-Importer-for-Xcode)
+自动导入头文件
 
 
