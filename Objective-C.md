@@ -208,3 +208,6 @@ YYCategories — 功能丰富的 Category 类型工具库。
 [screenshot5]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Screenshots/MWPhotoBrowser5.png
 [screenshot6_thumb]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Screenshots/MWPhotoBrowser6t.png
 [screenshot6]: https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Screenshots/MWPhotoBrowser6.png
+
+
+[Harpy【在使用app的时候出现有新版本更新跳转到苹果商店的提示】](https://github.com/ArtSabintsev/Harpy)
