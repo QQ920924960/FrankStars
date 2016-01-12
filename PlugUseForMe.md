@@ -53,4 +53,5 @@ Dash是一款用于浏览文档的优秀软件。更让人喜出望外的是，�
 
 ### [Xcode-Quick-Localization](https://github.com/nanaimostudio/Xcode-Quick-Localization)
 选中一段文字，快速实现本地化
+
 ![](https://github.com/nanaimostudio/Xcode-Quick-Localization/raw/master/Xcode_Quick_Localization_Settings.png)
