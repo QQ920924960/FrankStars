@@ -4,6 +4,8 @@
 
 ####[Google谷歌](https://github.com/google)
 
+####[GoogleChrome](https://github.com/GoogleChrome)
+
 ####[Microsoft微软](https://github.com/microsoft)
 
 ####[Cisco思科](https://github.com/cisco)
